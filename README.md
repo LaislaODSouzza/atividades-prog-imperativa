@@ -18,5 +18,10 @@ Uma série de exercícios resolvidos da matéria Programação Imperativa na Uni
 |[ex-12.c](ex-12.c)|ex-11 + <ins>o maior valor sorteado</ins>|
 |[ex-13.c](ex-13.c)|ex-11 + quantidade de <ins>números ímpares</ins> sorteados + <ins>soma</ins> desses valores ímpares|
 |[ex-14.c](ex-14.c)|ex-11 + verificar se é um <ins>número primo</ins> + a <ins>quantidade</ins> desses números primos|
-
-*Repositório em andamento*
+|[ex-15.c](ex-15.c)|<ins>Matriz 7x7</ins> com números aleatórios|
+|[ex-16.c](ex-16.c)|<ins>Matriz identidade</ins> (n linhas por n colunas - matriz quadrada)|
+|[ex-17.c](ex-17.c)|ex-15 + a <ins>média</ins> dos valores sorteados da matriz|
+|[ex-18.c](ex-18.c)|Coletando um nome com mais de uma palavra|
+|[ex-19.c](ex-19.c)|<ins>Invertendo a ordem</ins> das letras de uma frase|
+|[ex-20.c](ex-20.c)|<ins>Fatorial</ins> (n!)|
+|[ex-21.c](ex-21.c)|Posição da <ins>Sequência de Fibonacci</ins>|
